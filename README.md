@@ -9,7 +9,7 @@
 **配置完成后执行 mvn package 即可在target下打出一个zip包,解压后目录如下**
 
 
-![](http://image.pzone.org/imgs/45db8776823d4ac09d77d283f5560b77.png)
+![](http://heartbeats.qiniudn.com/dc77bf84b9294398a542db0be3bbf52f.png)
 
 
 ## 使用 ##
@@ -26,7 +26,7 @@
 
 -	然后创建2个bat的快捷方式到桌面,分别右键->属性 设置各自快捷键，如：
 
-	 ![](http://image.pzone.org/imgs/bf99b28470ec4c139c9c0ca42409a860.png)
+	 ![](http://heartbeats.qiniudn.com/d06a2388610a490fad0cb0dd1300b899.png)
 
 	**并设置最小化运行**
 
